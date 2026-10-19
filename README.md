@@ -34,8 +34,8 @@ I am a Bachelor of Science in Information Systems (BSIS) student focused on arch
 Interactive Technical Highlights
 
 <p align="center">
-  <a href="https://github.com/ReyNavarro">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ReyNavarro&repo=Test&theme=tokyonight" />
+  <a href="https://github.com/ReyNavarro/ReyNavarro">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ReyNavarro&repo=ReyNavarro&theme=tokyonight" />
   </a>
 </p>
 
@@ -91,7 +91,7 @@ Core Specializations
 GitHub Activity & Contributions
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReyNavarro&theme=tokyonight" width="100%" alt="3D Contribution Chart" />
+  <img src="https://raw.githubusercontent.com/yusukebe/github-profile-3d-contrib/main/docs/images/demo.png" width="100%" alt="3D Contribution Chart" />
 </p>
 
 <p><hr style="height:2px;border-width:0;color:#2e1065;background-color:#2e1065"></p>
@@ -113,16 +113,18 @@ GitHub Stats
 
 <br>
 
-<marquee behavior="scroll" direction="left" scrollamount="6">
-  <img src="https://cdn.myanimelist.net/images/manga/2/232070.jpg" height="170" width="120" style="border-radius:6px; margin-right:10px;" alt="Martial Peak" />
-  <img src="https://cdn.myanimelist.net/images/manga/3/222243.jpg" height="170" width="120" style="border-radius:6px; margin-right:10px;" alt="Magic Emperor" />
-  <img src="https://cdn.myanimelist.net/images/manga/3/251025.jpg" height="170" width="120" style="border-radius:6px; margin-right:10px;" alt="Eleceed" />
-  <img src="https://cdn.myanimelist.net/images/manga/3/222211.jpg" height="170" width="120" style="border-radius:6px; margin-right:10px;" alt="Solo Leveling" />
-  <img src="https://cdn.myanimelist.net/images/manga/1/220803.jpg" height="170" width="120" style="border-radius:6px; margin-right:10px;" alt="Lookism" />
-  <img src="https://cdn.myanimelist.net/images/manga/2/235889.jpg" height="170" width="120" style="border-radius:6px; margin-right:10px;" alt="Omniscient Reader" />
-  <img src="https://cdn.myanimelist.net/images/manga/3/238304.jpg" height="170" width="120" style="border-radius:6px; margin-right:10px;" alt="Great Mage 4000 Years" />
-  <img src="https://cdn.myanimelist.net/images/manga/2/189632.jpg" height="170" width="120" style="border-radius:6px; margin-right:10px;" alt="Tower of God" />
-</marquee>
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="7" style="background:#0f172a; padding:12px; border-radius:8px; border:1px solid #1e293b;">
+    <img src="https://cdn.myanimelist.net/images/manga/2/232070.jpg" height="170" width="120" style="border-radius:8px; margin-right:12px; transform: perspective(400px) rotateY(-8deg); box-shadow: 4px 4px 10px rgba(0,0,0,0.5);" alt="Martial Peak" />
+    <img src="https://cdn.myanimelist.net/images/manga/3/222243.jpg" height="170" width="120" style="border-radius:8px; margin-right:12px; transform: perspective(400px) rotateY(-8deg); box-shadow: 4px 4px 10px rgba(0,0,0,0.5);" alt="Magic Emperor" />
+    <img src="https://cdn.myanimelist.net/images/manga/3/251025.jpg" height="170" width="120" style="border-radius:8px; margin-right:12px; transform: perspective(400px) rotateY(-8deg); box-shadow: 4px 4px 10px rgba(0,0,0,0.5);" alt="Eleceed" />
+    <img src="https://cdn.myanimelist.net/images/manga/3/222211.jpg" height="170" width="120" style="border-radius:8px; margin-right:12px; transform: perspective(400px) rotateY(-8deg); box-shadow: 4px 4px 10px rgba(0,0,0,0.5);" alt="Solo Leveling" />
+    <img src="https://cdn.myanimelist.net/images/manga/1/220803.jpg" height="170" width="120" style="border-radius:8px; margin-right:12px; transform: perspective(400px) rotateY(-8deg); box-shadow: 4px 4px 10px rgba(0,0,0,0.5);" alt="Lookism" />
+    <img src="https://cdn.myanimelist.net/images/manga/2/235889.jpg" height="170" width="120" style="border-radius:8px; margin-right:12px; transform: perspective(400px) rotateY(-8deg); box-shadow: 4px 4px 10px rgba(0,0,0,0.5);" alt="Omniscient Reader" />
+    <img src="https://cdn.myanimelist.net/images/manga/3/238304.jpg" height="170" width="120" style="border-radius:8px; margin-right:12px; transform: perspective(400px) rotateY(-8deg); box-shadow: 4px 4px 10px rgba(0,0,0,0.5);" alt="Great Mage 4000 Years" />
+    <img src="https://cdn.myanimelist.net/images/manga/2/189632.jpg" height="170" width="120" style="border-radius:8px; margin-right:12px; transform: perspective(400px) rotateY(-8deg); box-shadow: 4px 4px 10px rgba(0,0,0,0.5);" alt="Tower of God" />
+  </marquee>
+</div>
 
 <br>
 
