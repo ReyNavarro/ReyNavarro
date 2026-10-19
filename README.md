@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:0f172a&height=200&section=header&text=Rey%20Anderson%20Navarro&fontSize=38&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=BSIS%20%E2%80%A2%20WEB%20%26%20MOBILE%20SYSTEMS%20DEVELOPER&descSize=14&descAlignY=62&descAlign=50" width="100%" alt="Header" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=BSIS+Web+%26+Mobile+Developer;Flutter+Web+Designer;IT+Specialist;Data+Analyst" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Information+Systems+Student;Full-Stack+Web+%26+Mobile+Developer;Offline-First+Flutter+Applications;Relational+Database+%26+System+Architecture" alt="Typing SVG" />
+  <a href="https://github.com/ReyNavarro">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=2000&color=818CF8&center=true&vcenter=true&width=500&lines=%E2%9A%A1+Offline-First+Mobile+Apps;%F0%9F%97%84%EF%B8%8F+Relational+Database+Architecture;%F0%9F%93%8A+Business+Process+Mapping+(BPMN)" alt="Status Typing SVG" />
   </a>
 </p>
 
@@ -15,14 +17,9 @@
   <a href="https://github.com/ReyNavarro">
     <img src="https://img.shields.io/badge/Location-Cebu_City%2C_PH-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://mastodon.social/@DreadMoon">
-    <img src="https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white" />
-  </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/opt/line/purple.png" width="100%" height="2px" />
-</p>
+---
 
 About
 
@@ -32,9 +29,7 @@ I am a Bachelor of Science in Information Systems (BSIS) student focused on arch
 • Engineering Approach: Building modular, scalable systems designed to perform under operational, real-world conditions.
 • Current Initiatives: Offline-first Flutter mobile applications and custom business management software.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/opt/line/purple.png" width="100%" height="2px" />
-</p>
+---
 
 Interactive Technical Highlights
 
@@ -44,9 +39,7 @@ Interactive Technical Highlights
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/opt/line/purple.png" width="100%" height="2px" />
-</p>
+---
 
 Tech Stack & Environments
 
@@ -62,9 +55,7 @@ Languages
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/opt/line/purple.png" width="100%" height="2px" />
-</p>
+---
 
 Frameworks & Libraries
 <p align="left">
@@ -76,9 +67,7 @@ Frameworks & Libraries
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/opt/line/purple.png" width="100%" height="2px" />
-</p>
+---
 
 Databases & Systems Architecture
 <p align="left">
@@ -89,9 +78,7 @@ Databases & Systems Architecture
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/opt/line/purple.png" width="100%" height="2px" />
-</p>
+---
 
 Core Specializations
 
@@ -99,23 +86,27 @@ Core Specializations
 • Database & Backend Design: Structuring normalized relational schemas, query planning, and data flow pipelines.
 • Enterprise Systems Engineering: Mapping process flows (BPMN), system control frameworks, and software metrics.
 
+---
+
+GitHub Activity & Contributions
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/opt/line/purple.png" width="100%" height="2px" />
+  <img src="https://ssr-contributions-svg.vercel.app/_/ReyNavarro?chart=3dbar&theme=slate" width="100%" alt="3D Contribution Chart" />
 </p>
+
+---
 
 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ReyNavarro&theme=slate&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ReyNavarro&theme=slate&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=ReyNavarro&theme=slate&hide_border=false" alt="Streak Stats" />
   <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ReyNavarro&theme=slate&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyNavarro&theme=slate&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/opt/line/purple.png" width="100%" height="2px" />
-</p>
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ReyNavarro&icon=0&color=38bdf8" alt="Profile Views" />
