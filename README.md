@@ -113,16 +113,19 @@ GitHub Stats
 
 <br>
 
-<div align="center">
+
+  <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6" style="background:#0f172a; padding:12px; border-radius:8px; border:1px solid #1e293b;">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" height="170" width="120" style="border-radius:8px; margin-right:12px; object-fit:cover;" alt="Cover 1" />
-    <img src="https://images.unsplash.com/photo-1578632767115-351597cf2477?w=240&h=340&fit=crop" height="170" width="120" style="border-radius:8px; margin-right:12px; object-fit:cover;" alt="Cover 2" />
-    <img src="https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=240&h=340&fit=crop" height="170" width="120" style="border-radius:8px; margin-right:12px; object-fit:cover;" alt="Cover 3" />
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=240&h=340&fit=crop" height="170" width="120" style="border-radius:8px; margin-right:12px; object-fit:cover;" alt="Cover 4" />
-    <img src="https://images.unsplash.com/photo-1534447677768-be436bb09401?w=240&h=340&fit=crop" height="170" width="120" style="border-radius:8px; margin-right:12px; object-fit:cover;" alt="Cover 5" />
-    <img src="https://images.unsplash.com/photo-1563089145-599997674d42?w=240&h=340&fit=crop" height="170" width="120" style="border-radius:8px; margin-right:12px; object-fit:cover;" alt="Cover 6" />
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=240&h=340&fit=crop" height="170" width="120" style="border-radius:8px; margin-right:12px; object-fit:cover;" alt="Cover 7" />
+    <img src="https://images.weserv.nl/?url=gg.asuracomic.net/storage/media/1/conversions/01J613BDEHQYQ28JEXGZ5A609X-optimized.webp" height="170" width="120" style="border-radius:8px; margin-right:12px; object-fit:cover;" alt="Solo Leveling" />
+    <img src="https://images.weserv.nl/?url=gg.asuracomic.net/storage/media/121/conversions/01J613J98JFFG6W5RWWN57S9Q1-optimized.webp" height="170" width="120" style="border-radius:8px; margin-right:12px; object-fit:cover;" alt="Revenge of the Iron-Blooded Sword Hound" />
+    <img src="https://images.weserv.nl/?url=gg.asuracomic.net/storage/media/132/conversions/01J613M70A700AWYJ4QXZ8G5H2-optimized.webp" height="170" width="120" style="border-radius:8px; margin-right:12px; object-fit:cover;" alt="The Greatest Estate Developer" />
+    <img src="https://images.weserv.nl/?url=gg.asuracomic.net/storage/media/192/conversions/01J613QWEXM4P2HQXGAKG7Y4F8-optimized.webp" height="170" width="120" style="border-radius:8px; margin-right:12px; object-fit:cover;" alt="Pick Me Up Infinite Gacha" />
+    <img src="https://images.weserv.nl/?url=gg.asuracomic.net/storage/media/143/conversions/01J613N8B7XBGJ7M81A7PZHJ3A-optimized.webp" height="170" width="120" style="border-radius:8px; margin-right:12px; object-fit:cover;" alt="Standard of Reincarnation" />
+    <img src="https://images.weserv.nl/?url=gg.asuracomic.net/storage/media/205/conversions/01J613S618X3YA554A2B87K8W5-optimized.webp" height="170" width="120" style="border-radius:8px; margin-right:12px; object-fit:cover;" alt="Damn Reincarnation" />
+    <img src="https://images.weserv.nl/?url=gg.asuracomic.net/storage/media/188/conversions/01J613Q034Y8J745T3M2K89W1X-optimized.webp" height="170" width="120" style="border-radius:8px; margin-right:12px; object-fit:cover;" alt="Return of the Mount Hua Sect" />
+    <img src="https://images.weserv.nl/?url=gg.asuracomic.net/storage/media/156/conversions/01J613P4E7K4A3B3M987K5W2X1-optimized.webp" height="170" width="120" style="border-radius:8px; margin-right:12px; object-fit:cover;" alt="Nano Machine" />
   </marquee>
+
 </div>
 
 <br>
