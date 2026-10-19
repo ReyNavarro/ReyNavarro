@@ -1,8 +1,3 @@
-The image loading issues were caused by broken external image service URLs (the 3D contribution graph service and the stats API domain).
-
-Below is the complete, fully functional `README.md` file. It replaces broken images with clean, reliable badges, fixes all formatting, and adds a collapsible **Top 100 Manhua Reading Watchlist** inside a clean HTML `<details>` menu so it doesn't clutter your main profile page.
-
-```markdown
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=BSIS+Web+%26+Mobile+Developer;Flutter+Web+Designer;IT+Specialist;Data+Analyst" alt="Typing SVG" />
@@ -220,5 +215,3 @@ GitHub Metrics
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ReyNavarro&icon=0&color=38bdf8" alt="Profile Views" />
 </p>
-
-```
