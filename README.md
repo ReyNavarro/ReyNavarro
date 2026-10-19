@@ -10,7 +10,7 @@ About Me
 
 Connect & Socials
 • Email: reyandersonavarro@gmail.com
-• Mastodon: https://mastodon.social/@DreadMoon
+
 
 Tech Stack & Tools
 
