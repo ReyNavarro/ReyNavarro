@@ -19,7 +19,7 @@
   </a>
 </p>
 
----
+<p><hr style="height:2px;border-width:0;color:#2e1065;background-color:#2e1065"></p>
 
 About
 
@@ -29,7 +29,17 @@ I am a Bachelor of Science in Information Systems (BSIS) student focused on arch
 • Engineering Approach: Building modular, scalable systems designed to perform under operational, real-world conditions.
 • Current Initiatives: Offline-first Flutter mobile applications and custom business management software.
 
----
+<p><hr style="height:2px;border-width:0;color:#2e1065;background-color:#2e1065"></p>
+
+Interactive Technical Highlights
+
+<p align="center">
+  <a href="https://github.com/ReyNavarro">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ReyNavarro&repo=Test&theme=tokyonight" />
+  </a>
+</p>
+
+<p><hr style="height:2px;border-width:0;color:#2e1065;background-color:#2e1065"></p>
 
 Tech Stack & Environments
 
@@ -45,7 +55,7 @@ Languages
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
----
+<p><hr style="height:2px;border-width:0;color:#2e1065;background-color:#2e1065"></p>
 
 Frameworks & Libraries
 <p align="left">
@@ -57,7 +67,7 @@ Frameworks & Libraries
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
----
+<p><hr style="height:2px;border-width:0;color:#2e1065;background-color:#2e1065"></p>
 
 Databases & Systems Architecture
 <p align="left">
@@ -68,7 +78,7 @@ Databases & Systems Architecture
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
+<p><hr style="height:2px;border-width:0;color:#2e1065;background-color:#2e1065"></p>
 
 Core Specializations
 
@@ -76,7 +86,27 @@ Core Specializations
 • Database & Backend Design: Structuring normalized relational schemas, query planning, and data flow pipelines.
 • Enterprise Systems Engineering: Mapping process flows (BPMN), system control frameworks, and software metrics.
 
----
+<p><hr style="height:2px;border-width:0;color:#2e1065;background-color:#2e1065"></p>
+
+GitHub Activity & Contributions
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReyNavarro&theme=tokyonight" width="100%" alt="3D Contribution Chart" />
+</p>
+
+<p><hr style="height:2px;border-width:0;color:#2e1065;background-color:#2e1065"></p>
+
+GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyNavarro&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ReyNavarro&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReyNavarro&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p><hr style="height:2px;border-width:0;color:#2e1065;background-color:#2e1065"></p>
 
 <details>
 <summary><b>▼ Manhua Reading Rotation (Top 100)</b> — click to expand</summary>
@@ -84,13 +114,14 @@ Core Specializations
 <br>
 
 <marquee behavior="scroll" direction="left" scrollamount="6">
-  <img src="https://images.unsplash.com/photo-1578632767115-351597cf2477?w=120&h=170&fit=crop" height="170" width="120" style="border-radius:6px; margin-right:10px;" />
-  <img src="https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=120&h=170&fit=crop" height="170" width="120" style="border-radius:6px; margin-right:10px;" />
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=120&h=170&fit=crop" height="170" width="120" style="border-radius:6px; margin-right:10px;" />
-  <img src="https://images.unsplash.com/photo-1534447677768-be436bb09401?w=120&h=170&fit=crop" height="170" width="120" style="border-radius:6px; margin-right:10px;" />
-  <img src="https://images.unsplash.com/photo-1563089145-599997674d42?w=120&h=170&fit=crop" height="170" width="120" style="border-radius:6px; margin-right:10px;" />
-  <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=120&h=170&fit=crop" height="170" width="120" style="border-radius:6px; margin-right:10px;" />
-  <img src="https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=120&h=170&fit=crop" height="170" width="120" style="border-radius:6px; margin-right:10px;" />
+  <img src="https://cdn.myanimelist.net/images/manga/2/232070.jpg" height="170" width="120" style="border-radius:6px; margin-right:10px;" alt="Martial Peak" />
+  <img src="https://cdn.myanimelist.net/images/manga/3/222243.jpg" height="170" width="120" style="border-radius:6px; margin-right:10px;" alt="Magic Emperor" />
+  <img src="https://cdn.myanimelist.net/images/manga/3/251025.jpg" height="170" width="120" style="border-radius:6px; margin-right:10px;" alt="Eleceed" />
+  <img src="https://cdn.myanimelist.net/images/manga/3/222211.jpg" height="170" width="120" style="border-radius:6px; margin-right:10px;" alt="Solo Leveling" />
+  <img src="https://cdn.myanimelist.net/images/manga/1/220803.jpg" height="170" width="120" style="border-radius:6px; margin-right:10px;" alt="Lookism" />
+  <img src="https://cdn.myanimelist.net/images/manga/2/235889.jpg" height="170" width="120" style="border-radius:6px; margin-right:10px;" alt="Omniscient Reader" />
+  <img src="https://cdn.myanimelist.net/images/manga/3/238304.jpg" height="170" width="120" style="border-radius:6px; margin-right:10px;" alt="Great Mage 4000 Years" />
+  <img src="https://cdn.myanimelist.net/images/manga/2/189632.jpg" height="170" width="120" style="border-radius:6px; margin-right:10px;" alt="Tower of God" />
 </marquee>
 
 <br>
@@ -198,7 +229,7 @@ Core Specializations
 
 </details>
 
----
+<p><hr style="height:2px;border-width:0;color:#2e1065;background-color:#2e1065"></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ReyNavarro&icon=0&color=38bdf8" alt="Profile Views" />
