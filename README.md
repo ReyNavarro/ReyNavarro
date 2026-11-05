@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:reyandersonavarro@gmail.com">
+  <a href="mailto:reyandersonavarro@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
-  <a href="https://github.com/ReyNavarro">
+  <a href="https://github.com/ReyNavarro" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Location-Cebu_City%2C_PH-181717?style=for-the-badge&logo=github&logoColor=white" alt="Location Badge" />
   </a>
 </p>
@@ -34,8 +34,10 @@ I am a Bachelor of Science in Information Systems (BSIS) student focused on arch
 ## Interactive Technical Highlights
 
 <p align="center">
-  <a href="https://github.com/ReyNavarro/ReyNavarro">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ReyNavarro&repo=ReyNavarro&theme=tokyonight" alt="Pinned Repo" />
+  <a href="https://github.com/ReyNavarro/ReyNavarro" target="_blank" rel="noopener noreferrer">
+    <img height="150"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=ReyNavarro&repo=ReyNavarro&theme=tokyonight"
+         alt="Pinned Repository: ReyNavarro" />
   </a>
 </p>
 
@@ -87,7 +89,7 @@ I am a Bachelor of Science in Information Systems (BSIS) student focused on arch
 ## GitHub Activity & Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReyNavarro&theme=tokyonight&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReyNavarro&theme=tokyonight&hide_border=true" width="100%" alt="GitHub contribution graph" />
 </p>
 
 ---
@@ -95,11 +97,17 @@ I am a Bachelor of Science in Information Systems (BSIS) student focused on arch
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyNavarro&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyNavarro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ReyNavarro&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ReyNavarro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReyNavarro&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReyNavarro&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+
 </p>
 
 ---
@@ -121,48 +129,8 @@ I am a Bachelor of Science in Information Systems (BSIS) student focused on arch
 8. Battle Through the Heavens  
 9. I Am the Fated Villain ★ Favorite  
 10. Star Martial God Technique  
-11. Feng Shen Ji  
-12. The Ravages of Time  
-13. Yuan Zun  
-14. Martial God Asura  
-15. Sovereign of the Three Realms  
-16. Rebirth of the Urban Immortal Cultivator  
-17. Above Ten Thousand People  
-18. Invincible at the Start  
-19. Spare Me, Great Lord!  
-20. Keep A Low Profile, Sect Leader  
-21. All Heavenly Bosses Are My Apprentices  
-22. My Wife Is A Demon Queen  
-23. Perfect World  
-24. The Great Ruler  
-25. Wu Dong Qian Kun  
-26. Logging in 10,000 Years into the Future  
-27. Global Martial Arts  
-28. Cultivator Against Hero Society  
-29. Ultimate Scheming System  
-30. I Have A Mansion In A Post-Apocalyptic World  
-31. Top Tier Providence: Secretly Cultivate for 1000 Years  
-32. With a Sword I Become a God  
-33. Starting With 13 Secrets  
-34. Eternal Reverence  
-35. Peerless Battle Spirit  
-36. Banished Disciple's Counterattack  
-37. Xian Ni (Renegade Immortal)  
-38. Against the Gods  
-39. Chaotic Sword God  
-40. Dragon Prince Yuan  
-41. Evolution Begins With A Big Tree  
-42. Picked Up A Leveled Up Item  
-43. The Immortal Emperor Stays in the Human World  
-44. Starting From Today I'll Work As A City Lord  
-45. Release That Witch  
-46. Record of a Mortal's Journey to Immortality  
-47. Shura Sword Sovereign  
-48. Nine Star Hegemon Body Art  
-49. The First Ancestor in History  
-50. Local Hero  
 ...  
-100. Alchemy Supreme
+100. Alchemy Supreme  
 
 </details>
 
