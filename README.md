@@ -1,32 +1,45 @@
 <p align="center">
-  <strong>BSIS Student · Web & Mobile Developer · Systems Builder</strong>
-  <br/>
-  <em>Turning real-world workflows into thoughtful, reliable software.</em>
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=BSIS+Web+%26+Mobile+Developer;Flutter+%26+Web+Developer;Information+Systems+Student;Building+DataCorePoint" alt="Animated introduction: BSIS Web and Mobile Developer, Flutter and Web Developer, Information Systems Student, Building DataCorePoint" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ReyNavarro">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=2000&color=818CF8&center=true&vcenter=true&width=600&lines=%E2%9A%A1+Offline-First+Mobile+Apps;%F0%9F%97%84%EF%B8%8F+Relational+Database+Architecture;%F0%9F%93%8A+Business+Process+Mapping+(BPMN);%F0%9F%8C%B1+Agriculture+Information+Systems" alt="Animated interests: offline-first mobile apps, relational database architecture, BPMN, and agriculture information systems" />
+  </a>
 </p>
 
 <p align="center">
   <a href="mailto:reyandersonavarro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rey" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rey" />
   </a>
   <a href="https://github.com/ReyNavarro">
-    <img src="https://img.shields.io/badge/GitHub-ReyNavarro-181717?style=for-the-badge&logo=github&logoColor=white" alt="Rey Navarro on GitHub" />
+    <img src="https://img.shields.io/badge/Location-Cebu_City%2C_PH-181717?style=for-the-badge&logo=github&logoColor=white" alt="Location: Cebu City, Philippines" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Cebu%20City%2C%20Philippines-38BDF8?style=for-the-badge" alt="Based in Cebu City, Philippines" />
 </p>
 
 ---
 
 ## About
 
-I’m a Bachelor of Science in Information Systems (BSIS) student who enjoys building software where practical workflows, clean data, and approachable interfaces meet. I’m especially interested in offline-first mobile apps, relational database design, and tools that make everyday operations easier.
+I am a Bachelor of Science in Information Systems (BSIS) student who enjoys turning real-world needs into useful software. I’m especially interested in offline-first mobile apps, relational database design, and information systems that make everyday workflows easier.
 
-- **Studying:** Information Systems, database systems, governance, and business process modeling (BPMN)
-- **Building:** Flutter apps and business information systems
-- **Thinking about:** Usable interfaces, dependable data, and software that fits the people who use it
+- **Academic Focus:** Information Systems, relational database systems, governance, and Business Process Modeling (BPMN).
+- **What I Enjoy Building:** Flutter mobile apps, data-driven tools, and business management systems.
+- **My Approach:** Pair thoughtful interfaces with clear workflows and reliable data.
 
 ---
 
-## Featured Project
+## Interactive Technical Highlights
+
+<p align="center">
+  <a href="https://github.com/ReyNavarro/DataCorePoint">
+    <img height="150"
+         src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ReyNavarro&repo=DataCorePoint&theme=tokyonight"
+         alt="Featured repository: DataCorePoint Agriculture Information System" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/ReyNavarro/DataCorePoint">
@@ -34,13 +47,7 @@ I’m a Bachelor of Science in Information Systems (BSIS) student who enjoys bui
   </a>
 </p>
 
-### DataCorePoint · Agriculture Information System
-
-A PHP and Supabase PostgreSQL application for organizing farmer, farm, crop, planting, and harvest records. It brings record management, search, reports, and operational workflows together in one project.
-
-- **Focus:** Practical information management for agricultural records
-- **Built with:** PHP, PostgreSQL, Supabase, HTML, CSS, and JavaScript
-- **Explore:** [Source code and setup guide](https://github.com/ReyNavarro/DataCorePoint)
+**DataCorePoint** is an Agriculture Information System for organizing farmer, farm, crop, planting, and harvest records. Built with PHP and Supabase PostgreSQL, it brings practical record management and operational workflows together.
 
 ---
 
@@ -53,7 +60,7 @@ A PHP and Supabase PostgreSQL application for organizing farmer, farm, crop, pla
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
@@ -63,17 +70,16 @@ A PHP and Supabase PostgreSQL application for organizing farmer, farm, crop, pla
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </div>
 
-### Databases & Tools
+### Databases & Systems Architecture
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
@@ -82,19 +88,17 @@ A PHP and Supabase PostgreSQL application for organizing farmer, farm, crop, pla
 
 ## Core Specializations
 
-- **Mobile development:** Cross-platform Flutter apps, with an interest in offline-first workflows
-- **Database & backend design:** Relational data modeling, normalization, and dependable data flows
-- **Information systems:** Translating business processes into practical software and clear workflows
+- **Mobile Systems:** Exploring responsive cross-platform apps with Flutter and offline-friendly workflows.
+- **Database & Backend Design:** Relational data modeling, normalization, and dependable data flows.
+- **Information Systems:** Connecting business processes and technology through practical, understandable tools.
 
 ---
 
 ## GitHub Activity & Contributions
 
-GitHub renders my contribution graph directly on my [profile](https://github.com/ReyNavarro). Visit it to see my latest activity and repositories.
-
 <p align="center">
-  <a href="https://github.com/ReyNavarro?tab=repositories">
-    <img src="https://img.shields.io/badge/Browse%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse Rey's GitHub repositories" />
+  <a href="https://github.com/ReyNavarro">
+    <img src="https://ghchart.rshah.org/38bdf8/ReyNavarro" width="100%" alt="GitHub contribution graph for ReyNavarro" />
   </a>
 </p>
 
@@ -102,17 +106,17 @@ GitHub renders my contribution graph directly on my [profile](https://github.com
 
 ## GitHub Stats
 
-Rather than depend on third-party stats-card services that can go offline, here are direct links to my live GitHub profile and work:
-
 <p align="center">
-  <a href="https://github.com/ReyNavarro">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open my GitHub profile" />
-  </a>
   <a href="https://github.com/ReyNavarro?tab=repositories">
-    <img src="https://img.shields.io/badge/Public-Repositories-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="View my public repositories" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ReyNavarro&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages on GitHub" />
   </a>
-  <a href="https://github.com/ReyNavarro/DataCorePoint">
-    <img src="https://img.shields.io/badge/Featured-DataCorePoint-3ECF8E?style=for-the-badge&logo=postgresql&logoColor=white" alt="View the DataCorePoint project" />
+  <br/>
+  <a href="https://github.com/ReyNavarro">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ReyNavarro&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for ReyNavarro" />
+  </a>
+  <br/>
+  <a href="https://github.com/ReyNavarro">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReyNavarro&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for ReyNavarro" />
   </a>
 </p>
 
@@ -121,7 +125,7 @@ Rather than depend on third-party stats-card services that can go offline, here 
 ## Manhua Reading Rotation (Top 100)
 
 <details>
-<summary><b>See my reading list</b></summary>
+<summary><b>See full reading list</b></summary>
 
 <br/>
 
@@ -143,7 +147,7 @@ Rather than depend on third-party stats-card services that can go offline, here 
 ---
 
 <p align="center">
-  <a href="https://github.com/ReyNavarro">Thanks for stopping by — explore my work on GitHub.</a>
+  <strong>Profile Views</strong>
   <br/>
-  <a href="mailto:reyandersonavarro@gmail.com">Let’s connect</a>
+  <img src="https://komarev.com/ghpvc/?username=ReyNavarro&icon=github&color=38bdf8" alt="Profile views counter" />
 </p>
