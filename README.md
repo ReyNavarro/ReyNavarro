@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ReyNavarro">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=2000&color=818CF8&center=true&vcenter=true&width=600&lines=%E2%9A%A1+Offline-First+Mobile+Apps;%F0%9F%97%84%EF%B8%8F+Relational+Database+Architecture;%F0%9F%93%8A+Business+Process+Mapping+(BPMN);%F0%9F%8C%B1+Agriculture+Information+Systems" alt="Animated interests: offline-first mobile apps, relational database architecture, BPMN, and agriculture information systems" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=2000&color=818CF8&center=true&vcenter=true&width=600&lines=%E2%9A%A1+Offline-First+Mobile+Apps;%F0%9F%97%84%EF%B8%8F+Relational+Database+Architecture;%F0%9F%93%8A+Business+Process+Mapping+(BPMN);%F0%9F%8C%B1+Information+Systems+Student" alt="Animated interests: offline-first mobile apps, relational database architecture, BPMN, and agriculture information systems" />
   </a>
 </p>
 
