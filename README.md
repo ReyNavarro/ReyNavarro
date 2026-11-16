@@ -42,7 +42,7 @@ I am a Bachelor of Science in Information Systems (BSIS) student who enjoys turn
 </p>
 
 <p align="center">
-  <a href="https://github.com/ReyNavarro/DataCorePoint">
+  <a href="[https://github.com/ReyNavarro/DataCorePoint](https://github.com/ReyNavarro/GrowthTopia)">
     <img src="https://img.shields.io/badge/Featured%20Project-DataCorePoint-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Explore DataCorePoint on GitHub" />
   </a>
 </p>
